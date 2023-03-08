@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir -p welcome/{to/{school,},} #-p to ignore securrity check for sub directory
+mkdir -p welcome/to/school #-p to ignore securrity check for sub directory
