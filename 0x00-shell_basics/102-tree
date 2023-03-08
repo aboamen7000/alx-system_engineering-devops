@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir -p welcome/to/school #-p to ignore securrity check for sub directory
+mkdir${IFS%??}-p welcome/to/school #-p to ignore securrity check for sub directory,since we only allow 2 spaces so we are use: ${IFS%??} and this is a variable which will generate a whitespace to create our sub directories tree without third space command in code.
