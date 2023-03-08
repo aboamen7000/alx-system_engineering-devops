@@ -1,1 +1,1 @@
-prints the absolute path name of the current working directory : pwd TEST!@#T
+prints the absolute path name of the current working directory : pwd
