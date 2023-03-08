@@ -1,3 +1,2 @@
 #!/bin/bash
-pwd
-ls
+tree alx-system_engineering-devops
