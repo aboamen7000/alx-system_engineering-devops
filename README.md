@@ -1,8 +1,14 @@
+![img](https://assets.imaginablefutures.com/media/images/ALX_Logo.max-200x150.png)
 
-# alx-system_engineering-devops : Shell, permissions [0x01]
+# 0x00 ALX System Engineering and DevOps 💥
 
-1) switches the current user to the user betty [0-iam_betty]
-<br>su betty<br>
+>Learning bash, scripting, networking and web infra right now, been wanting to get on this. It's going to be FUN !!.
 
-2) prints the effective username of the current user [1-who_am_i]
-<br>whoami<br>
+## About
+
+- This repository consists of all the .Subject projects done with [ALX Africa](https://www.alxafrica.com/) Full stack Software Engineering course in partnership with [Holberton School](https://www.holbertonschool.com/) by [th3\_gr00t](https://th3-gr00t.tk/).
+
+---
+
+- [0x00](./0x00-shell_basics) : Writing basic bash scripts that perform basic stuff.
+- [0x01](./0x01-shell_permissions) : Linux permissions.
