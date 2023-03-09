@@ -2,9 +2,9 @@
 
 ## Resources
 
-- LinuxCommand.org [Permissions](http://linuxcommand.org/lc3_lts0090.php).
-- directory permissions in Linux [Permissions](https://www.pluralsight.com/blog/it-ops/linux-file-permissions).
-- Changing the Owner, Group [Permissions](https://www.oreilly.com/library/view/running-linux-third/156592469X/ch04s14.html).
+- LinuxCommand.org [Permissions](http://linuxcommand.org/lc3_lts0090.php) .
+- directory permissions in Linux [Visit](https://www.pluralsight.com/blog/it-ops/linux-file-permissions) .
+- Changing the Owner, Group [Visit](https://www.oreilly.com/library/view/running-linux-third/156592469X/ch04s14.html) .
 ## Tasks
 
 0. [My name is Betty](./0-iam_betty) : A script that switches the current user to the user betty.
