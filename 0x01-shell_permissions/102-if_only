@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod guillume:betty hello
+chmod --from=guillume betty hello
