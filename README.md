@@ -1,7 +1,7 @@
 # alx-system_engineering-devops
 
-1-) switches the current user to the user betty
+1) switches the current user to the user betty
 <br>su betty<br>
 
-1-) switches the current user to the user betty
-<br>su betty<br><br>
+2) switches the current user to the user betty
+<br>su betty<br>
