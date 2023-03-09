@@ -6,7 +6,7 @@
 
 ## About
 
-- This repository consists of all the .Subject projects done with [ALX Africa](https://www.alxafrica.com/) Full stack Software Engineering course.
+- My Repo consists of all my projects done [ALX Africa](https://www.alxafrica.com/) Full stack Software Engineering course.
 
 ---
 
