@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -l .
+find . -type f -mindepth 1 | wc -1
