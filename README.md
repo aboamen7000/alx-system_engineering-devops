@@ -1,12 +1,12 @@
-![img](https://assets.imaginablefutures.com/media/images/ALX_Logo.max-200x150.png)
+![img](https://github.com/DevIA3kl/other/blob/master/more/ALX.png)
 
 # 0x00 ALX System Engineering and DevOps 💥
 
->Learning bash, scripting, networking and web infra right now, been wanting to get on this. It's going to be FUN !!.
+>Learning bash, scripting, networking and web infra right now.
 
 ## About
 
-- This repository consists of all the .Subject projects done with [ALX Africa](https://www.alxafrica.com/) Full stack Software Engineering course in partnership with [Holberton School](https://www.holbertonschool.com/) by [th3\_gr00t](https://th3-gr00t.tk/).
+- My Repo consists of all my projects done [ALX Africa](https://www.alxafrica.com/) Full stack Software Engineering course.
 
 ---
 
